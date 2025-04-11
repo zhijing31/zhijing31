@@ -4,9 +4,12 @@ A lifelong learner currently pursuing a Bachelor's degree in Data Science and An
 2023 Aug ~ Present, B.S. in Data Science and Analytics, National University of Singapore
 
 ## 💡 Projects
-| Title                           | Description                                                                 | Implementation                                                                                 | Dataset              | Creation Date |
-|------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------|----------------|
-| [Diabetes Prediction and Analysis](https://github.com/zhijing31/Diabetes-Statistical-Report)   | Compared Naïve Bayes and KNN classifiers, achieved ~72.4% accuracy          | R Script| US 2015 Health Survey | Oct 2023     |
+
+| Title                                | Description                                                                                         | Implementation                                                                                 | Dataset                                                                                          | Creation Date |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------|
+| Predicting diabetes risk using health indicators | Compared Naïve Bayes and KNN classifiers, achieved ~72.4% accuracy                                  | [R](https://github.com/zhijing31/Diabetes-Statistical-Report)                                   | US 2015 Health Survey                                                                             | Oct 2023       |
+| Analyzing factors influencing expedition success | Explored expedition outcomes using data wrangling and visualization techniques to uncover key trends | [R](https://github.com/zhijing31/Diabetes-Statistical-Report)                                   | [TidyTuesday Himalayan Dataset](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-01-21/readme.md) | Apr 2025       |
+
 
 ## 📜 Certificates
 
