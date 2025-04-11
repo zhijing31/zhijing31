@@ -1,8 +1,8 @@
 # Hi there👋, I'm Zhijing!  
 A lifelong learner currently pursuing a Bachelor's degree in Data Science and Analytics
 ## 🎓 Education
-2023 Aug ~ Present, B.S. in Data Science and Analytics, National University of Singapore
-
+- Aug 2023 ~ Present, **B.S. in Data Science and Analytics**, National University of Singapore 
+  
 ## 💡 Projects
 
 | Title                                | Description                                                                                         | Tools                                                                                 | Dataset                                                                                          | Creation Date |
