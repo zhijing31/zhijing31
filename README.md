@@ -4,9 +4,9 @@ A lifelong learner currently pursuing a Bachelor's degree in Data Science and An
 2023 Aug ~ Present, B.S. in Data Science and Analytics, National University of Singapore
 
 ## 💡 Projects
-| Title                           | Description                                                                 | Language                                                                                 | Dataset              | Creation Date |
+| Title                           | Description                                                                 | Implementation                                                                                 | Dataset              | Creation Date |
 |------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------|----------------|
-| [Diabetes Prediction and Analysis](https://github.com/zhijing31/Diabetes-Statistical-Report)   | Compared Naïve Bayes and KNN classifiers, achieved ~72.4% accuracy          | R | US 2015 Health Survey | Oct 2023     |
+| [Diabetes Prediction and Analysis](https://github.com/zhijing31/Diabetes-Statistical-Report)   | Compared Naïve Bayes and KNN classifiers, achieved ~72.4% accuracy          | R Script| US 2015 Health Survey | Oct 2023     |
 
 ## 📜 Certificates
 
