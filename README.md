@@ -3,6 +3,9 @@ A lifelong learner currently pursuing a Bachelor's degree in Data Science and An
 ## 🎓 Education
 2023 Aug ~ Present, B.S. in Data Science and Analytics, National University of Singapore
 
+## 💡 Projects
+
+
 ## 📜 Certificates
 
 | Tool / Topic    | Courses                                                                                                           | Platform / Institution                         | Date Completed       |
